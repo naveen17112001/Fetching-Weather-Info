@@ -1,1 +1,1 @@
-# SHAPEAI Python and ybersecurity BOOTCAMP
+# SHAPEAI Python and cybersecurity BOOTCAMP
